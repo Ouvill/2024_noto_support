@@ -16,8 +16,8 @@
 
 ### ふるさと納税
 
-- [令和6年1月能登半島地震 災害緊急支援寄付 | ふるさと納税サイト「さとふる」](https://www.satofull.jp/oenkifu/oenkifu_detail.php?page_id=507) - ふるさと納税を活用して、自治体を支援できる。
-- [令和6年能登半島地震の復興支援・寄付をする｜ふるさとチョイス災害支援](https://www.furusato-tax.jp/saigai/filter?category_id[]=1303) - ふるさと納税を活用して、自治体を支援できる。
+- [令和6年1月能登半島地震 災害緊急支援寄付 | ふるさと納税サイト「さとふる」](https://www.satofull.jp/oenkifu/oenkifu_detail.php?page_id=507) - さとふるが受け付けている支援金。ふるさと納税を活用して、市町村単位で自治体を支援できる。
+- [令和6年能登半島地震の復興支援・寄付をする｜ふるさとチョイス災害支援](https://www.furusato-tax.jp/saigai/filter?category_id[]=1303) - ふるさとチョイスが受け付けている支援金。ふるさと納税を活用して、市町村単位で自治体を支援できる。
 
 ### NPO法人、企業
 
